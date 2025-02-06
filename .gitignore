@@ -1,0 +1,13 @@
+# Ignore virtual environment folders
+.venv
+venv
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore files that are specific to your local development environment
+.DS_Store
+Thumbs.db
